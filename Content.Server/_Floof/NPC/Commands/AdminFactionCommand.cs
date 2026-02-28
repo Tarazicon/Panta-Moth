@@ -1,13 +1,9 @@
 using Content.Server.Administration;
 using Content.Shared.Administration;
-using Content.Server.NPC.Systems;
-using Robust.Shared.Prototypes;
+using Content.Shared.NPC.Systems;
 using Robust.Shared.Toolshed;
-using Robust.Shared.Toolshed.Syntax;
-using Robust.Shared.Toolshed.TypeParsers;
-using Content.Server.NPC.Components;
 
-namespace Content.Server.FloofStation.NPC.Commands;
+namespace Content.Server._Floof.NPC.Commands;
 
 [ToolshedCommand(Name = "faction"), AdminCommand(AdminFlags.Admin)]
 public sealed class AdminFactionCommand : ToolshedCommand
