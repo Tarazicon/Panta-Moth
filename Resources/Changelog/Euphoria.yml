@@ -888,3 +888,9 @@ Entries:
       message: Removed the DAGD Objective
   id: 109
   time: '2026-03-02T11:24:54.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Remove
+      message: Removed Asakim from the event scheduler.
+  id: 110
+  time: '2026-03-02T17:28:59.0000000+00:00'
