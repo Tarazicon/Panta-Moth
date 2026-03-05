@@ -1002,3 +1002,14 @@ Entries:
       message: Fixed a couple issues with footprints. See PR 197 for more details.
   id: 124
   time: '2026-03-05T03:27:36.0000000+00:00'
+- author: Tarazicon
+  changes:
+    - type: Add
+      message: Added new sounds for airlocks from Funky and closets from Goob.
+    - type: Add
+      message: >-
+        Item interaction sounds make a return! Objects such as paper, tools,
+        clothing, and more now have sound effects for being picked up and put
+        down.
+  id: 125
+  time: '2026-03-05T03:44:46.0000000+00:00'
