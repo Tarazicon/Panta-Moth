@@ -1259,3 +1259,9 @@ Entries:
       message: Security Technician and associated gear.
   id: 154
   time: '2026-03-09T11:55:43.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Lo's Digiboard can be linked to cargo telepads again.
+  id: 155
+  time: '2026-03-10T08:10:56.0000000+00:00'
