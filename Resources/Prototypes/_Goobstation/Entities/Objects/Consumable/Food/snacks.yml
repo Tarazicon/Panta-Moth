@@ -29,6 +29,8 @@
           Quantity: 10
         - ReagentId: Protein
           Quantity: 10
+        - ReagentId: Fiber # Euphoria - fibah for cotton flavor
+          Quantity: 5
   - type: Appearance
   - type: Edible # Euphoria - change to "Edible"
     trash:
