@@ -1,8 +1,10 @@
 using System.Linq;
+using Content.Server.Database;
 using Content.Shared._DV.CCVars;
 using Content.Shared._DV.Traits;
 using Content.Shared._DV.Traits.Conditions;
 using Content.Shared._DV.Traits.Effects;
+using Content.Shared._Coyote.SniffAndSmell;
 using Content.Shared.GameTicking;
 using Content.Shared.Hands.Components;
 using Content.Shared.Hands.EntitySystems;
@@ -26,7 +28,7 @@ public sealed class TraitSystem : EntitySystem
     [Dependency] private readonly ILogManager _log = default!;
     [Dependency] private readonly IPrototypeManager _prototype = default!;
     [Dependency] private readonly SharedHandsSystem _hands = default!;
-
+    [Dependency] private readonly ScentSystem _scentSystem = default!;
     private int _maxTraitCount;
     private int _maxTraitPoints;
 
@@ -74,6 +76,17 @@ public sealed class TraitSystem : EntitySystem
         foreach (var trait in sortedPrototypes)
             ApplyTrait(args.Mob, trait);
         // Floofstation edit end
+
+        // Euphoria edit: Port Coyote scent mechanic. Thank DeltaV for wanting to be unique because this is so confusing.
+        var scentComp = EnsureComp<ScentComponent>(args.Mob);
+        foreach (var trait in sortedPrototypes)
+        {
+            foreach (var scentProtoID in trait.Scents)
+            {
+                _scentSystem.AddScentPrototype(scentComp, scentProtoID);
+            }
+        }
+        // Euphoria edit end
 
         // Send disabled traits notification to client if any were rejected
         if (disabledTraits.Count > 0)

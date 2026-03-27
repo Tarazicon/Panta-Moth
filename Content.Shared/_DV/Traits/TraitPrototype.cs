@@ -1,5 +1,6 @@
 using Content.Shared._DV.Traits.Conditions;
 using Content.Shared._DV.Traits.Effects;
+using Content.Shared._Coyote.SniffAndSmell;
 using Robust.Shared.Prototypes;
 
 namespace Content.Shared._DV.Traits;
@@ -64,5 +65,11 @@ public sealed partial class TraitPrototype : IPrototype
     /// </summary>
     [DataField]
     public int Priority = 0;
+
+    /// <summary>
+    /// Scents!
+    /// </summary>
+    [DataField("scentProtos")]
+    public List<ProtoId<ScentPrototype>> Scents = new();
     // Floofstation section end
 }
