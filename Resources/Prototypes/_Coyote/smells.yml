@@ -38,7 +38,7 @@
 - type: scent
   id: ScentStinky
   abstract: true
-  isStinky: true # Euphoria - stinky scents are stinky bro
+  isStinky: true
 
 - type: scent
   id: ScentNoExamine

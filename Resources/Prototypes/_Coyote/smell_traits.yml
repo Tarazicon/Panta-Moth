@@ -4,7 +4,7 @@
   name: trait-scent-vanilla-name
   description: trait-scent-vanilla-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - ScentVanilla
 
@@ -13,7 +13,7 @@
   name: trait-scent-citrus-name
   description: trait-scent-citrus-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - ScentCitrus
 
@@ -22,7 +22,7 @@
   name: trait-scent-linen-name
   description: trait-scent-linen-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - ScentLinen
 
@@ -31,7 +31,7 @@
   name: trait-scent-sandalwood-name
   description: trait-scent-sandalwood-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - ScentSandalwood
 
@@ -40,7 +40,7 @@
   name: trait-scent-lavender-name
   description: trait-scent-lavender-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Lavender
 
@@ -49,7 +49,7 @@
   name: trait-scent-greentea-name
   description: trait-scent-greentea-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Green
 
@@ -58,7 +58,7 @@
   name: trait-scent-bergamot-name
   description: trait-scent-bergamot-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Bergamot
 
@@ -67,7 +67,7 @@
   name: trait-scent-eucalyptus-name
   description: trait-scent-eucalyptus-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Eucalyptus
 
@@ -76,7 +76,7 @@
   name: trait-scent-cedarwood-name
   description: trait-scent-cedarwood-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Cedarwood
 
@@ -85,7 +85,7 @@
   name: trait-scent-mint-name
   description: trait-scent-mint-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Mint
 
@@ -94,7 +94,7 @@
   name: trait-scent-rosewater-name
   description: trait-scent-rosewater-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Rosewater
 
@@ -103,7 +103,7 @@
   name: trait-scent-jasmine-name
   description: trait-scent-jasmine-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Jasmine
 
@@ -112,7 +112,7 @@
   name: trait-scent-lemonzest-name
   description: trait-scent-lemonzest-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Lemon
 
@@ -121,7 +121,7 @@
   name: trait-scent-pine-name
   description: trait-scent-pine-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Pine
 
@@ -130,7 +130,7 @@
   name: trait-scent-warmhoney-name
   description: trait-scent-warmhoney-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Warm
 
@@ -139,7 +139,7 @@
   name: trait-scent-rain-name
   description: trait-scent-rain-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Rain
 
@@ -148,7 +148,7 @@
   name: trait-scent-apples-name
   description: trait-scent-apples-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Apples
 
@@ -157,7 +157,7 @@
   name: trait-scent-cloves-name
   description: trait-scent-cloves-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Cloves
 
@@ -166,7 +166,7 @@
   name: trait-scent-darkchocolate-name
   description: trait-scent-darkchocolate-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Dark
 
@@ -175,7 +175,7 @@
   name: trait-scent-orangeblossoms-name
   description: trait-scent-orangeblossoms-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Orange
 
@@ -184,7 +184,7 @@
   name: trait-scent-leather-name
   description: trait-scent-leather-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Leather
 
@@ -193,7 +193,7 @@
   name: trait-scent-aloe-name
   description: trait-scent-aloe-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Aloe
 
@@ -202,7 +202,7 @@
   name: trait-scent-cardamom-name
   description: trait-scent-cardamom-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Cardamom
 
@@ -211,7 +211,7 @@
   name: trait-scent-peaches-name
   description: trait-scent-peaches-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Peaches
 
@@ -220,7 +220,7 @@
   name: trait-scent-basil-name
   description: trait-scent-basil-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Basil
 
@@ -229,7 +229,7 @@
   name: trait-scent-smokedwood-name
   description: trait-scent-smokedwood-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Smoked
 
@@ -238,7 +238,7 @@
   name: trait-scent-milkandsugar-name
   description: trait-scent-milkandsugar-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Milk
 
@@ -247,7 +247,7 @@
   name: trait-scent-iris-name
   description: trait-scent-iris-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Iris
 
@@ -256,7 +256,7 @@
   name: trait-scent-grapefruit-name
   description: trait-scent-grapefruit-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Grapefruit
 
@@ -265,7 +265,7 @@
   name: trait-scent-frankincense-name
   description: trait-scent-frankincense-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Frankincense
 
@@ -274,7 +274,7 @@
   name: trait-scent-pears-name
   description: trait-scent-pears-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Pears
 
@@ -283,7 +283,7 @@
   name: trait-scent-tobacco-name
   description: trait-scent-tobacco-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Tobacco
 
@@ -292,7 +292,7 @@
   name: trait-scent-soap-name
   description: trait-scent-soap-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Soap
 
@@ -301,7 +301,7 @@
   name: trait-scent-chamomile-name
   description: trait-scent-chamomile-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Chamomile
 
@@ -310,7 +310,7 @@
   name: trait-scent-fig-name
   description: trait-scent-fig-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Fig
 
@@ -319,7 +319,7 @@
   name: trait-scent-ozone-name
   description: trait-scent-ozone-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Ozone
 
@@ -328,7 +328,7 @@
   name: trait-scent-sweat-name
   description: trait-scent-sweat-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Sweat
 
@@ -337,7 +337,7 @@
   name: trait-scent-oil-name
   description: trait-scent-oil-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Oil
 
@@ -346,7 +346,7 @@
   name: trait-scent-motoroil-name
   description: trait-scent-motoroil-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Motor
 
@@ -355,7 +355,7 @@
   name: trait-scent-soil-name
   description: trait-scent-soil-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Soil
 
@@ -364,7 +364,7 @@
   name: trait-scent-almond-name
   description: trait-scent-almond-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Almond
 
@@ -373,7 +373,7 @@
   name: trait-scent-patchouli-name
   description: trait-scent-patchouli-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Patchouli
 
@@ -382,7 +382,7 @@
   name: trait-scent-blueberry-name
   description: trait-scent-blueberry-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Blueberry
 
@@ -391,7 +391,7 @@
   name: trait-scent-cinnamon-name
   description: trait-scent-cinnamon-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Cinnamon
 
@@ -400,7 +400,7 @@
   name: trait-scent-seasalt-name
   description: trait-scent-seasalt-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Sea
 
@@ -409,7 +409,7 @@
   name: trait-scent-wildflowers-name
   description: trait-scent-wildflowers-desc
   category: Scents
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Wildflowers
 
@@ -419,7 +419,7 @@
   name: trait-scent-musk-name
   description: trait-scent-musk-desc
   category: ScentsNSFW
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - ScentLewdMusk
 
@@ -428,7 +428,7 @@
   name: trait-scent-heat-name
   description: trait-scent-heat-desc
   category: ScentsNSFW
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Heat
 
@@ -437,7 +437,7 @@
   name: trait-scent-latex-name
   description: trait-scent-latex-desc
   category: ScentsNSFW
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Latex
 
@@ -446,7 +446,7 @@
   name: trait-scent-boystink-name
   description: trait-scent-boystink-desc
   category: ScentsNSFW
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Boystink
 
@@ -455,7 +455,7 @@
   name: trait-scent-boysmell-name
   description: trait-scent-boysmell-desc
   category: ScentsNSFW
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Boysmell
 
@@ -464,7 +464,7 @@
   name: trait-scent-skunk-name
   description: trait-scent-skunk-desc
   category: ScentsNSFW
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Skunk
 
@@ -473,7 +473,7 @@
   name: trait-scent-girlstink-name
   description: trait-scent-girlstink-desc
   category: ScentsNSFW
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Girlstink
 
@@ -482,7 +482,7 @@
   name: trait-scent-girlsmell-name
   description: trait-scent-girlsmell-desc
   category: ScentsNSFW
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Girlsmell
 
@@ -491,6 +491,6 @@
   name: trait-scent-spaceweed-name
   description: trait-scent-spaceweed-desc
   category: ScentsNSFW
-  cost: 1
+  cost: 0 # Euphoria
   scentProtos:
   - Spaceweed
