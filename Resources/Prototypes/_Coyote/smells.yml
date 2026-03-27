@@ -38,7 +38,7 @@
 - type: scent
   id: ScentStinky
   abstract: true
-  isStinky: true
+  isStinky: true # Euphoria - stinky scents are stinky bro
 
 - type: scent
   id: ScentNoExamine
@@ -147,18 +147,6 @@
 
 - type: scent
   id: ScentSandalwood
-  parent:
-  - ScentBase
-  msgsExamine:
-  - scent-sandalwood-examine
-  msgsDirect:
-  - scent-sandalwood-direct
-  msgsClose:
-  - scent-sandalwood-close
-  msgsFar:
-  - scent-sandalwood-far
-- type: scent
-  id: Sandalwood
   parent:
   - ScentBase
   msgsExamine:
@@ -447,6 +435,7 @@
   id: Smoked
   parent:
   - ScentBase
+  isStinky: true # Euphoria - stinky scents are stinky bro
   msgsExamine:
   - scent-smokedwood-examine
   msgsDirect:
@@ -525,6 +514,7 @@
   id: Tobacco
   parent:
   - ScentBase
+  isStinky: true # Euphoria - stinky scents are stinky bro
   msgsExamine:
   - scent-tobacco-examine
   msgsDirect:
@@ -577,6 +567,7 @@
   id: Ozone
   parent:
   - ScentBase
+  isStinky: true # Euphoria - stinky scents are stinky bro
   msgsExamine:
   - scent-ozone-examine
   msgsDirect:
@@ -590,6 +581,7 @@
   id: Sweat
   parent:
   - ScentBase
+  isStinky: true # Euphoria - stinky scents are stinky bro
   msgsExamine:
   - scent-sweat-examine
   msgsDirect:
@@ -603,6 +595,7 @@
   id: Oil
   parent:
   - ScentBase
+  isStinky: true # Euphoria - stinky scents are stinky bro
   msgsExamine:
   - scent-oil-examine
   msgsDirect:
@@ -616,6 +609,7 @@
   id: Motor
   parent:
   - ScentBase
+  isStinky: true # Euphoria - stinky scents are stinky bro
   msgsExamine:
   - scent-motoroil-examine
   msgsDirect:
