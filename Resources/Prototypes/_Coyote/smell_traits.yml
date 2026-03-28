@@ -107,7 +107,7 @@
   effects:
   - !type:AddScentTraitEffect
     scents:
-    - Mind
+    - Mint
 
 - type: trait
   id: ScentRosewater
