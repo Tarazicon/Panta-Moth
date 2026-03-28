@@ -30,17 +30,3 @@
   priority: 50
   maxTraits: 2 # Floof
   accentColor: "#eab308"  # Yellow
-
-- type: traitCategory
-  id: Scents
-  name: trait-category-scents
-  priority: 60
-  maxTraits: 2
-  accentColor: "#52ffc2"  # Mint Green
-
-- type: traitCategory
-  id: ScentsNSFW
-  name: trait-category-scents-nsfw
-  priority: 70
-  maxTraits: 2
-  accentColor: "#ff1778"  # Hot Pink

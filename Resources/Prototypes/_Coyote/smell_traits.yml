@@ -5,8 +5,10 @@
   description: trait-scent-vanilla-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - ScentVanilla
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - ScentVanilla
 
 - type: trait
   id: ScentCitrus
@@ -14,8 +16,10 @@
   description: trait-scent-citrus-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - ScentCitrus
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - ScentCitrus
 
 - type: trait
   id: ScentLinen
@@ -23,8 +27,10 @@
   description: trait-scent-linen-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - ScentLinen
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - ScentLinen
 
 - type: trait
   id: ScentSandalwood
@@ -32,8 +38,10 @@
   description: trait-scent-sandalwood-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - ScentSandalwood
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - ScentSandalwood
 
 - type: trait
   id: ScentLavender
@@ -41,8 +49,10 @@
   description: trait-scent-lavender-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Lavender
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Lavender
 
 - type: trait
   id: ScentGreen
@@ -50,8 +60,10 @@
   description: trait-scent-greentea-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Green
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Green
 
 - type: trait
   id: ScentBergamot
@@ -59,8 +71,10 @@
   description: trait-scent-bergamot-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Bergamot
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Bergamot
 
 - type: trait
   id: ScentEucalyptus
@@ -68,8 +82,10 @@
   description: trait-scent-eucalyptus-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Eucalyptus
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Eucalyptus
 
 - type: trait
   id: ScentCedarwood
@@ -77,8 +93,10 @@
   description: trait-scent-cedarwood-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Cedarwood
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Cedarwood
 
 - type: trait
   id: ScentMint
@@ -86,8 +104,10 @@
   description: trait-scent-mint-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Mint
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Mind
 
 - type: trait
   id: ScentRosewater
@@ -95,8 +115,10 @@
   description: trait-scent-rosewater-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Rosewater
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Rosewater
 
 - type: trait
   id: ScentJasmine
@@ -104,8 +126,10 @@
   description: trait-scent-jasmine-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Jasmine
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Jasmine
 
 - type: trait
   id: ScentLemon
@@ -113,8 +137,10 @@
   description: trait-scent-lemonzest-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Lemon
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Lemon
 
 - type: trait
   id: ScentPine
@@ -122,8 +148,10 @@
   description: trait-scent-pine-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Pine
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Pine
 
 - type: trait
   id: ScentWarm
@@ -131,8 +159,10 @@
   description: trait-scent-warmhoney-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Warm
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Warm
 
 - type: trait
   id: ScentRain
@@ -140,8 +170,10 @@
   description: trait-scent-rain-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Rain
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Rain
 
 - type: trait
   id: ScentApples
@@ -149,8 +181,10 @@
   description: trait-scent-apples-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Apples
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Apples
 
 - type: trait
   id: ScentCloves
@@ -158,8 +192,10 @@
   description: trait-scent-cloves-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Cloves
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Cloves
 
 - type: trait
   id: ScentDark
@@ -167,8 +203,10 @@
   description: trait-scent-darkchocolate-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Dark
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Dark
 
 - type: trait
   id: ScentOrange
@@ -176,8 +214,10 @@
   description: trait-scent-orangeblossoms-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Orange
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Orange
 
 - type: trait
   id: ScentLeather
@@ -185,8 +225,10 @@
   description: trait-scent-leather-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Leather
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Leather
 
 - type: trait
   id: ScentAloe
@@ -194,8 +236,10 @@
   description: trait-scent-aloe-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Aloe
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Aloe
 
 - type: trait
   id: ScentCardamom
@@ -203,8 +247,10 @@
   description: trait-scent-cardamom-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Cardamom
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Cardamom
 
 - type: trait
   id: ScentPeaches
@@ -212,8 +258,10 @@
   description: trait-scent-peaches-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Peaches
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Peaches
 
 - type: trait
   id: ScentBasil
@@ -221,8 +269,10 @@
   description: trait-scent-basil-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Basil
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Basil
 
 - type: trait
   id: ScentSmoked
@@ -230,8 +280,10 @@
   description: trait-scent-smokedwood-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Smoked
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Smoked
 
 - type: trait
   id: ScentMilk
@@ -239,8 +291,10 @@
   description: trait-scent-milkandsugar-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Milk
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Milk
 
 - type: trait
   id: ScentIris
@@ -248,8 +302,10 @@
   description: trait-scent-iris-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Iris
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Iris
 
 - type: trait
   id: ScentGrapefruit
@@ -257,8 +313,10 @@
   description: trait-scent-grapefruit-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Grapefruit
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Grapefruit
 
 - type: trait
   id: ScentFrankincense
@@ -266,8 +324,10 @@
   description: trait-scent-frankincense-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Frankincense
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Frankincense
 
 - type: trait
   id: ScentPears
@@ -275,8 +335,10 @@
   description: trait-scent-pears-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Pears
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Pears
 
 - type: trait
   id: ScentTobacco
@@ -284,8 +346,10 @@
   description: trait-scent-tobacco-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Tobacco
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Tobacco
 
 - type: trait
   id: ScentSoap
@@ -293,8 +357,10 @@
   description: trait-scent-soap-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Soap
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Soap
 
 - type: trait
   id: ScentChamomile
@@ -302,8 +368,10 @@
   description: trait-scent-chamomile-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Chamomile
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Chamomile
 
 - type: trait
   id: ScentFig
@@ -311,8 +379,10 @@
   description: trait-scent-fig-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Fig
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Fig
 
 - type: trait
   id: ScentOzone
@@ -320,8 +390,10 @@
   description: trait-scent-ozone-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Ozone
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Ozone
 
 - type: trait
   id: ScentSweat
@@ -329,8 +401,10 @@
   description: trait-scent-sweat-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Sweat
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Sweat
 
 - type: trait
   id: ScentOil
@@ -338,8 +412,10 @@
   description: trait-scent-oil-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Oil
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Oil
 
 - type: trait
   id: ScentMotor
@@ -347,8 +423,10 @@
   description: trait-scent-motoroil-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Motor
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Motor
 
 - type: trait
   id: ScentSoil
@@ -356,8 +434,10 @@
   description: trait-scent-soil-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Soil
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Soil
 
 - type: trait
   id: ScentAlmond
@@ -365,8 +445,10 @@
   description: trait-scent-almond-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Almond
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Almond
 
 - type: trait
   id: ScentPatchouli
@@ -374,8 +456,10 @@
   description: trait-scent-patchouli-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Patchouli
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Patchouli
 
 - type: trait
   id: ScentBlueberry
@@ -383,8 +467,10 @@
   description: trait-scent-blueberry-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Blueberry
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Blueberry
 
 - type: trait
   id: ScentCinnamon
@@ -392,8 +478,10 @@
   description: trait-scent-cinnamon-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Cinnamon
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Cinnamon
 
 - type: trait
   id: ScentSea
@@ -401,8 +489,10 @@
   description: trait-scent-seasalt-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Sea
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Sea
 
 - type: trait
   id: ScentWildflowers
@@ -410,8 +500,10 @@
   description: trait-scent-wildflowers-desc
   category: Scents
   cost: 0 # Euphoria
-  scentProtos:
-  - Wildflowers
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Wildflowers
 
 # Lewd smells
 - type: trait
@@ -420,8 +512,10 @@
   description: trait-scent-musk-desc
   category: ScentsNSFW
   cost: 0 # Euphoria
-  scentProtos:
-  - ScentLewdMusk
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - ScentLewdMusk
 
 - type: trait
   id: ScentHeat
@@ -429,8 +523,10 @@
   description: trait-scent-heat-desc
   category: ScentsNSFW
   cost: 0 # Euphoria
-  scentProtos:
-  - Heat
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Heat
 
 - type: trait
   id: ScentLatex
@@ -438,8 +534,10 @@
   description: trait-scent-latex-desc
   category: ScentsNSFW
   cost: 0 # Euphoria
-  scentProtos:
-  - Latex
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Latex
 
 - type: trait
   id: ScentBoystink
@@ -447,8 +545,10 @@
   description: trait-scent-boystink-desc
   category: ScentsNSFW
   cost: 0 # Euphoria
-  scentProtos:
-  - Boystink
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Boystink
 
 - type: trait
   id: ScentBoysmell
@@ -456,8 +556,10 @@
   description: trait-scent-boysmell-desc
   category: ScentsNSFW
   cost: 0 # Euphoria
-  scentProtos:
-  - Boysmell
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Boysmell
 
 - type: trait
   id: ScentSkunk
@@ -465,8 +567,10 @@
   description: trait-scent-skunk-desc
   category: ScentsNSFW
   cost: 0 # Euphoria
-  scentProtos:
-  - Skunk
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Skunk
 
 - type: trait
   id: ScentGirlstink
@@ -474,8 +578,10 @@
   description: trait-scent-girlstink-desc
   category: ScentsNSFW
   cost: 0 # Euphoria
-  scentProtos:
-  - Girlstink
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Girlstink
 
 - type: trait
   id: ScentGirlsmell
@@ -483,8 +589,10 @@
   description: trait-scent-girlsmell-desc
   category: ScentsNSFW
   cost: 0 # Euphoria
-  scentProtos:
-  - Girlsmell
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Girlsmell
 
 - type: trait
   id: ScentSpaceweed
@@ -492,5 +600,7 @@
   description: trait-scent-spaceweed-desc
   category: ScentsNSFW
   cost: 0 # Euphoria
-  scentProtos:
-  - Spaceweed
+  effects:
+  - !type:AddScentTraitEffect
+    scents:
+    - Spaceweed

@@ -718,6 +718,7 @@
   parent:
   - ScentBase
   isLewd: true
+  isStinky: true # Euphoria
   msgsExamine:
   - scent-musk-examine
   msgsDirect:

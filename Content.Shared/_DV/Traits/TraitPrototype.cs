@@ -65,11 +65,5 @@ public sealed partial class TraitPrototype : IPrototype
     /// </summary>
     [DataField]
     public int Priority = 0;
-
-    /// <summary>
-    /// Scents!
-    /// </summary>
-    [DataField("scentProtos")]
-    public List<ProtoId<ScentPrototype>> Scents = new();
     // Floofstation section end
 }
