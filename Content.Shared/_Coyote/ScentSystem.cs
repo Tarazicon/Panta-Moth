@@ -12,6 +12,8 @@ using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 using Robust.Shared.Timing;
+using Robust.Shared.Configuration;
+using Content.Shared._Floof.CCVar;
 
 namespace Content.Shared._Coyote.SniffAndSmell;
 
@@ -20,15 +22,17 @@ namespace Content.Shared._Coyote.SniffAndSmell;
 /// </summary>
 public sealed class ScentSystem : EntitySystem
 {
-    [Dependency] private readonly SharedTransformSystem    _transform      = default!;
-    [Dependency] private readonly SharedInteractionSystem  _interact       = default!;
-    [Dependency] private readonly IGameTiming              _time           = default!;
-    [Dependency] private readonly IRobustRandom            _rng            = default!;
-    [Dependency] private readonly SharedPopupSystem        _popupSystem    = default!;
-    [Dependency] private readonly SharedConsentSystem      _consent        = default!;
-    [Dependency] private readonly IPrototypeManager         _proto          = default!;
+    [Dependency] private readonly SharedTransformSystem _transform = default!;
+    [Dependency] private readonly SharedInteractionSystem _interact = default!;
+    [Dependency] private readonly IGameTiming _time = default!;
+    [Dependency] private readonly IRobustRandom _rng = default!;
+    [Dependency] private readonly SharedPopupSystem _popupSystem = default!;
+    [Dependency] private readonly SharedConsentSystem _consent = default!;
+    [Dependency] private readonly IPrototypeManager _proto = default!;
+    [Dependency] private readonly IConfigurationManager _cfg = default!;
 
-    public TimeSpan BaseSmellCooldown = TimeSpan.FromSeconds(5);
+// Euphoria - no spam pls
+    public TimeSpan BaseSmellCooldown = TimeSpan.FromSeconds(30);
     public TimeSpan NextSmellDetectionTime = TimeSpan.Zero;
 
     /// <inheritdoc/>
@@ -238,6 +242,9 @@ public sealed class ScentSystem : EntitySystem
         if (NextSmellDetectionTime > _time.CurTime)
             return;
         NextSmellDetectionTime = _time.CurTime + BaseSmellCooldown;
+
+        if (!_cfg.GetCVar(FloofCCVars.ScentDectectionToggle))
+            return; // Euphoria - cvar
 
         var query = EntityQueryEnumerator<SmellerComponent>();
         while (query.MoveNext(out var uid, out var component))
