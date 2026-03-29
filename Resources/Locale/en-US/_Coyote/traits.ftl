@@ -162,3 +162,98 @@ trait-scent-girlsmell-desc = You smell like girlsmell.
 
 trait-scent-spaceweed-name = Spaceweed
 trait-scent-spaceweed-desc = You smell like spaceweed.
+
+# Euphoria - Community-Requested Scents
+
+trait-scent-gunmetal-name = Gunmetal
+trait-scent-gunmetal-desc = You smell like gunmetal.
+
+trait-scent-disinfectant-name = Disinfectant
+trait-scent-disinfectant-desc = You smell like disinfectant.
+
+trait-scent-ink-name = Ink
+trait-scent-ink-desc = You smell like ink.
+
+trait-scent-dust-name = Dust
+trait-scent-dust-desc = You smell like dust.
+
+trait-scent-metal-name = Metal
+trait-scent-metal-desc = You smell like metal.
+
+trait-scent-omni-name = Omnizine
+trait-scent-omni-desc = You smell like omnizine.
+
+trait-scent-gunpowder-name = Gunpowder
+trait-scent-gunpowder-desc = You smell like gunpowder.
+
+trait-scent-moss-name = Moss
+trait-scent-moss-desc = You smell like moss.
+
+trait-scent-weldfuel-name = Welding Fuel
+trait-scent-weldfuel-desc = You smell like welding fuel.
+
+trait-scent-jolly-name = Jolliness
+trait-scent-jolly-desc = You smell like eggnog and pine.
+
+trait-scent-gingerbread-name = Gingerbread
+trait-scent-gingerbread-desc = You smell like sweet gingerbread.
+
+trait-scent-hellstone-name = Hellstone
+trait-scent-hellstone-desc = You smell like brimstone and hellfire.
+
+trait-scent-rust-name = Rust
+trait-scent-rust-desc = You smell like corrosion.
+
+trait-scent-flowers-name = Flowers
+trait-scent-flowers-desc = You smell like a flower shop.
+
+trait-scent-stillwater-name = Still Water
+trait-scent-stillwater-desc = You smell musty.
+
+trait-scent-uranium-name = Enriched Uranium
+trait-scent-uranium-desc = You smell like enriched uranium.
+
+trait-scent-blacktea-name = Black Tea
+trait-scent-blacktea-desc = You smell like freshly brewed black tea.
+
+trait-scent-seafood-name = Seafood
+trait-scent-seafood-desc = You smell like fish and sea salt.
+
+trait-scent-wetdog-name = Wet Dog
+trait-scent-wetdog-desc = You smell like a wet dog.
+
+trait-scent-phoron-name = Phoron
+trait-scent-phoron-desc = You smell like an industrial refinery.
+
+trait-scent-grass-name = Grass
+trait-scent-grass-desc = You smell like freshly cut grass.
+
+trait-scent-bday-name = Birthday Candles
+trait-scent-bday-desc = You smell like birthday candles.
+
+trait-scent-unwashedfox-name = Unwashed Fox
+trait-scent-unwashedfox-desc = You smell like an unwashedfox fox.
+
+trait-scent-iron-name = Iron
+trait-scent-iron-desc = You smell ferous.
+
+trait-scent-frezon-name = Frezon
+trait-scent-frezon-desc = You smell like cold, yet intoxicating frezon.
+
+trait-scent-fish-name = Fish
+trait-scent-fish-desc = You smell awfully fishy.
+
+trait-scent-cheapcologne-name = Cheap Cologne
+trait-scent-cheapcologne-desc = You smell like cheap cologne.
+
+trait-scent-expensivecologne-name = Expensive Cologne
+trait-scent-expensivecologne-desc = You smell like expensive cologne.
+
+trait-scent-alcohol-name = Alcohol
+trait-scent-alcohol-desc = You smell like alcohol.
+
+trait-scent-piss-name = Piss
+trait-scent-piss-desc = You smell like piss.
+
+trait-scent-pomegranate-name = Pomegranates
+trait-scent-pomegranate-desc = You smell like pomegranates.

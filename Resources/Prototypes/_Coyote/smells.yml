@@ -842,3 +842,427 @@
   - scent-spaceweed-close
   msgsFar:
   - scent-spaceweed-far
+
+# Euphoria - Community Requested Scents
+# normal
+
+- type: scent
+  id: Gunmetal
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-gunmetal-examine
+  msgsDirect:
+  - scent-gunmetal-direct
+  msgsClose:
+  - scent-gunmetal-close
+  msgsFar:
+  - scent-gunmetal-far
+
+- type: scent
+  id: Disinfectant
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-disinfectant-examine
+  msgsDirect:
+  - scent-disinfectant-direct
+  msgsClose:
+  - scent-disinfectant-close
+  msgsFar:
+  - scent-disinfectant-far
+
+- type: scent
+  id: Ink
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-ink-examine
+  msgsDirect:
+  - scent-ink-direct
+  msgsClose:
+  - scent-ink-close
+  msgsFar:
+  - scent-ink-far
+
+- type: scent
+  id: Dust
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-dust-examine
+  msgsDirect:
+  - scent-dust-direct
+  msgsClose:
+  - scent-dust-close
+  msgsFar:
+  - scent-dust-far
+
+- type: scent
+  id: Metal
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-metal-examine
+  msgsDirect:
+  - scent-metal-direct
+  msgsClose:
+  - scent-metal-close
+  msgsFar:
+  - scent-metal-far
+
+- type: scent
+  id: Omnizine
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-omni-examine
+  msgsDirect:
+  - scent-omni-direct
+  msgsClose:
+  - scent-omni-close
+  msgsFar:
+  - scent-omni-far
+
+- type: scent
+  id: Gunpowder
+  parent:
+  - ScentBase
+  isStinky: true
+  msgsExamine:
+  - scent-gunpowder-examine
+  msgsDirect:
+  - scent-gunpowder-direct
+  msgsClose:
+  - scent-gunpowder-close
+  msgsFar:
+  - scent-gunpowder-far
+
+- type: scent
+  id: Moss
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-moss-examine
+  msgsDirect:
+  - scent-moss-direct
+  msgsClose:
+  - scent-moss-close
+  msgsFar:
+  - scent-moss-far
+
+- type: scent
+  id: WeldingFuel
+  isStinky: true
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-weldfuel-examine
+  msgsDirect:
+  - scent-weldfuel-direct
+  msgsClose:
+  - scent-weldfuel-close
+  msgsFar:
+  - scent-weldfuel-far
+
+- type: scent
+  id: Jolliness
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-jolly-examine
+  msgsDirect:
+  - scent-jolly-direct
+  msgsClose:
+  - scent-jolly-close
+  msgsFar:
+  - scent-jolly-far
+
+- type: scent
+  id: Gingerbread
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-gingerbread-examine
+  msgsDirect:
+  - scent-gingerbread-direct
+  msgsClose:
+  - scent-gingerbread-close
+  msgsFar:
+  - scent-gingerbread-far
+
+- type: scent
+  id: Hellstone
+  parent:
+  - ScentBase
+  isStinky: true
+  msgsExamine:
+  - scent-hellstone-examine
+  msgsDirect:
+  - scent-hellstone-direct
+  msgsClose:
+  - scent-hellstone-close
+  msgsFar:
+  - scent-hellstone-far
+
+- type: scent
+  id: Rust
+  parent:
+  - ScentBase
+  isStinky: true
+  msgsExamine:
+  - scent-rust-examine
+  msgsDirect:
+  - scent-rust-direct
+  msgsClose:
+  - scent-rust-close
+  msgsFar:
+  - scent-rust-far
+
+- type: scent
+  id: Flowers
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-flowers-examine
+  msgsDirect:
+  - scent-flowers-direct
+  msgsClose:
+  - scent-flowers-close
+  msgsFar:
+  - scent-flowers-far
+
+- type: scent
+  id: Stillwater
+  isStinky: true
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-stillwater-examine
+  msgsDirect:
+  - scent-stillwater-direct
+  msgsClose:
+  - scent-stillwater-close
+  msgsFar:
+  - scent-stillwater-far
+
+- type: scent
+  id: Uranium
+  parent:
+  - ScentBase
+  isStinky: true
+  msgsExamine:
+  - scent-uranium-examine
+  msgsDirect:
+  - scent-uranium-direct
+  msgsClose:
+  - scent-uranium-close
+  msgsFar:
+  - scent-uranium-far
+
+- type: scent
+  id: BlackTea
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-blacktea-examine
+  msgsDirect:
+  - scent-blacktea-direct
+  msgsClose:
+  - scent-blacktea-close
+  msgsFar:
+  - scent-blacktea-far
+
+- type: scent
+  id: Seafood
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-seafood-examine
+  msgsDirect:
+  - scent-seafood-direct
+  msgsClose:
+  - scent-seafood-close
+  msgsFar:
+  - scent-seafood-far
+
+- type: scent
+  id: WetDog
+  parent:
+  - ScentBase
+  isStinky: true
+  msgsExamine:
+  - scent-wetdog-examine
+  msgsDirect:
+  - scent-wetdog-direct
+  msgsClose:
+  - scent-wetdog-close
+  msgsFar:
+  - scent-wetdog-far
+
+- type: scent
+  id: Phoron
+  parent:
+  - ScentBase
+  isStinky: true
+  msgsExamine:
+  - scent-phoron-examine
+  msgsDirect:
+  - scent-phoron-direct
+  msgsClose:
+  - scent-phoron-close
+  msgsFar:
+  - scent-phoron-far
+
+- type: scent
+  id: Grass
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-grass-examine
+  msgsDirect:
+  - scent-grass-direct
+  msgsClose:
+  - scent-grass-close
+  msgsFar:
+  - scent-grass-far
+
+- type: scent
+  id: BdayCandles
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-bday-examine
+  msgsDirect:
+  - scent-bday-direct
+  msgsClose:
+  - scent-bday-close
+  msgsFar:
+  - scent-bday-far
+
+- type: scent
+  id: UnwashedFox
+  parent:
+  - ScentBase
+  isStinky: true
+  msgsExamine:
+  - scent-unwashedfox-examine
+  msgsDirect:
+  - scent-unwashedfox-direct
+  msgsClose:
+  - scent-unwashedfox-close
+  msgsFar:
+  - scent-unwashedfox-far
+
+- type: scent
+  id: Iron
+  parent:
+  - ScentBase
+  isStinky: true
+  msgsExamine:
+  - scent-iron-examine
+  msgsDirect:
+  - scent-iron-direct
+  msgsClose:
+  - scent-iron-close
+  msgsFar:
+  - scent-iron-far
+
+- type: scent
+  id: Frezon
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-frezon-examine
+  msgsDirect:
+  - scent-frezon-direct
+  msgsClose:
+  - scent-frezon-close
+  msgsFar:
+  - scent-frezon-far
+
+- type: scent
+  id: Fish
+  parent:
+  - ScentBase
+  isStinky: true
+  msgsExamine:
+  - scent-fish-examine
+  msgsDirect:
+  - scent-fish-direct
+  msgsClose:
+  - scent-fish-close
+  msgsFar:
+  - scent-fish-far
+
+- type: scent
+  id: CheapCologne
+  parent:
+  - ScentBase
+  isStinky: true # i dont care how much axe body spray you put on, it will ALWAYS MAKE YOU SMELL HORRIBLE
+  msgsExamine:
+  - scent-cheapcologne-examine
+  msgsDirect:
+  - scent-cheapcologne-direct
+  msgsClose:
+  - scent-cheapcologne-close
+  msgsFar:
+  - scent-cheapcologne-far
+
+- type: scent
+  id: ExpensiveCologne
+  parent:
+  - ScentBase
+  msgsExamine:
+  - scent-expensivecologne-examine
+  msgsDirect:
+  - scent-expensivecologne-direct
+  msgsClose:
+  - scent-expensivecologne-close
+  msgsFar:
+  - scent-expensivecologne-far
+
+- type: scent
+  id: Alcohol
+  parent:
+  - ScentBase
+  isStinky: true
+  msgsExamine:
+  - scent-alcohol-examine
+  msgsDirect:
+  - scent-alcohol-direct
+  msgsClose:
+  - scent-alcohol-close
+  msgsFar:
+  - scent-alcohol-far
+
+# lewd
+
+- type: scent
+  id: Pomegranate
+  parent:
+  - ScentBase
+  isLewd: true
+  msgsExamine:
+  - scent-pomegranate-examine
+  msgsDirect:
+  - scent-pomegranate-direct
+  msgsClose:
+  - scent-pomegranate-close
+  msgsFar:
+  - scent-pomegranate-far
+
+- type: scent
+  id: Piss # for the FREAKS out there...
+  parent:
+  - ScentBase
+  isLewd: true
+  isStinky: true
+  msgsExamine:
+  - scent-piss-examine
+  msgsDirect:
+  - scent-piss-direct
+  msgsClose:
+  - scent-piss-close
+  msgsFar:
+  - scent-piss-far

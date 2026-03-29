@@ -357,3 +357,193 @@ scent-spaceweed-examine      = spaceweed
 scent-spaceweed-direct       = {CAPITALIZE($src)} smells like spaceweed.
 scent-spaceweed-close        = You smell a trace of spaceweed.
 scent-spaceweed-far          = You catch a faint whiff of spaceweed.
+
+# Euphoria - Community-Requested Scents
+
+# gunmetal
+scent-gunmetal-examine      = gunmetal
+scent-gunmetal-direct       = {CAPITALIZE($src)} smells like a well-loved pistol.
+scent-gunmetal-close        = You smell a trace of gunmetal.
+scent-gunmetal-far          = You catch a faint whiff of gunmetal.
+
+# disinfectant
+scent-disinfectant-examine      = disinfectant
+scent-disinfectant-direct       = {CAPITALIZE($src)} smells like a hospital.
+scent-disinfectant-close        = You smell a trace of disinfectant.
+scent-disinfectant-far          = You catch a faint whiff of disinfectant.
+
+# ink
+scent-ink-examine      = ink
+scent-ink-direct       = {CAPITALIZE($src)} smells like pen ink.
+scent-ink-close        = You smell a trace of ink.
+scent-ink-far          = You catch a faint whiff of ink.
+
+# dust
+scent-dust-examine      = dust
+scent-dust-direct       = {CAPITALIZE($src)} smells like fine soot.
+scent-dust-close        = You smell a trace of dust.
+scent-dust-far          = You catch a faint whiff of dust.
+
+# metal
+scent-metal-examine      = metal
+scent-metal-direct       = {CAPITALIZE($src)} smells like metal.
+scent-metal-close        = You smell a trace of metal.
+scent-metal-far          = You catch a faint whiff of metal.
+
+# omnizine
+scent-omni-examine      = omnizine
+scent-omni-direct       = {CAPITALIZE($src)} smells like omnizine.
+scent-omni-close        = You smell a trace of omnizine.
+scent-omni-far          = You catch a faint whiff of omnizine.
+
+# gunpowder
+scent-gunpowder-examine      = gunpowder
+scent-gunpowder-direct       = {CAPITALIZE($src)} smells like gunpowder.
+scent-gunpowder-close        = You smell a trace of gunpowder.
+scent-gunpowder-far          = You catch a faint whiff of gunpowder.
+
+# moss
+scent-moss-examine      = moss
+scent-moss-direct       = {CAPITALIZE($src)} smells really earthy.
+scent-moss-close        = You smell a trace of moss.
+scent-moss-far          = You catch a faint whiff of moss.
+
+# welding fuel
+scent-weldfuel-examine      = welding fuel
+scent-weldfuel-direct       = {CAPITALIZE($src)} smells oily.
+scent-weldfuel-close        = You smell a trace of welding fuel.
+scent-weldfuel-far          = You catch a faint whiff of welding fuel.
+
+# jolly
+scent-jolly-examine      = jolly
+scent-jolly-direct       = {CAPITALIZE($src)} smells like eggnog and pine.
+scent-jolly-close        = You smell a trace of jolliness.
+scent-jolly-far          = You catch a faint whiff of jolliness.
+
+# gingerbread
+scent-gingerbread-examine      = gingerbread
+scent-gingerbread-direct       = {CAPITALIZE($src)} smells like sweet gingerbread.
+scent-gingerbread-close        = You smell a trace of gingerbread.
+scent-gingerbread-far          = You catch a faint whiff of gingerbread.
+
+# hellstone
+scent-hellstone-examine      = hellstone
+scent-hellstone-direct       = {CAPITALIZE($src)} smells like brimstone and hellfire.
+scent-hellstone-close        = You smell a trace of hellstone.
+scent-hellstone-far          = You catch a faint whiff of hellstone.
+
+# rust
+scent-rust-examine      = rust
+scent-rust-direct       = {CAPITALIZE($src)} smells like corrosion.
+scent-rust-close        = You smell a trace of rust.
+scent-rust-far          = You catch a faint whiff of rust.
+
+# flowers
+scent-flowers-examine      = flowers
+scent-flowers-direct       = {CAPITALIZE($src)} smells like a flower shop.
+scent-flowers-close        = You smell a trace of flowers.
+scent-flowers-far          = You catch a faint whiff of flowers.
+
+# stillwater
+scent-stillwater-examine      = still water
+scent-stillwater-direct       = {CAPITALIZE($src)} smells musty.
+scent-stillwater-close        = You smell a trace of still water.
+scent-stillwater-far          = You catch a faint whiff of still water.
+
+# uranium
+scent-uranium-examine      = enriched uranium
+scent-uranium-direct       = {CAPITALIZE($src)} smells sulfurous.
+scent-uranium-close        = You smell a trace of enriched uranium.
+scent-uranium-far          = You catch a faint whiff of enriched uranium.
+
+# blacktea
+scent-blacktea-examine      = black tea
+scent-blacktea-direct       = {CAPITALIZE($src)} smells like freshly brewed black tea.
+scent-blacktea-close        = You smell a trace of black tea.
+scent-blacktea-far          = You catch a faint whiff of black tea.
+
+# seafood
+scent-seafood-examine      = seafood
+scent-seafood-direct       = {CAPITALIZE($src)} smells like fish and salt water.
+scent-seafood-close        = You smell a trace of seafood.
+scent-seafood-far          = You catch a faint whiff of seafood.
+
+# wetdog
+scent-wetdog-examine      = a wet dog
+scent-wetdog-direct       = {CAPITALIZE($src)} smells like a wet dog.
+scent-wetdog-close        = You smell a trace of a wet dog.
+scent-wetdog-far          = You catch a faint whiff of a wet dog.
+
+# phoron
+scent-phoron-examine      = phoron
+scent-phoron-direct       = {CAPITALIZE($src)} smells like an industrial refinery.
+scent-phoron-close        = You smell a trace of phoron.
+scent-phoron-far          = You catch a faint whiff of phoron.
+
+# grass
+scent-grass-examine      = grass
+scent-grass-direct       = {CAPITALIZE($src)} smells like freshly cut grass.
+scent-grass-close        = You smell a trace of grass.
+scent-grass-far          = You catch a faint whiff of grass.
+
+# bday
+scent-bday-examine      = birthday candles
+scent-bday-direct       = {CAPITALIZE($src)} smells like birthday candles.
+scent-bday-close        = You smell a trace of birthday candles.
+scent-bday-far          = You catch a faint whiff of birthday candles.
+
+# unwashedfox
+scent-unwashedfox-examine      = an unwashed fox
+scent-unwashedfox-direct       = {CAPITALIZE($src)} smells like an unwashed fox.
+scent-unwashedfox-close        = You smell a trace of an unwashed fox.
+scent-unwashedfox-far          = You catch a faint whiff of an unwashed fox.
+
+# iron
+scent-iron-examine      = iron
+scent-iron-direct       = {CAPITALIZE($src)} smells ferous.
+scent-iron-close        = You smell a trace of iron.
+scent-iron-far          = You catch a faint whiff of iron.
+
+# frezon
+scent-frezon-examine      = frezon
+scent-frezon-direct       = {CAPITALIZE($src)} smells frozen, the scent burns in your nose.
+scent-frezon-close        = You smell a trace of frezon.
+scent-frezon-far          = You catch a faint whiff of frezon.
+
+# fish
+scent-fish-examine      = fish
+scent-fish-direct       = {CAPITALIZE($src)} smells like awfully fishy.
+scent-fish-close        = You smell a trace of fish.
+scent-fish-far          = You catch a faint whiff of fish.
+
+# cheapcologne
+scent-cheapcologne-examine      = cheap cologne
+scent-cheapcologne-direct       = {CAPITALIZE($src)} smells like overly-strong, corner store cologne.
+scent-cheapcologne-close        = You smell a trace of cheap cologne.
+scent-cheapcologne-far          = You catch a faint whiff of cheap cologne.
+
+# expensivecologne
+scent-expensivecologne-examine      = expensive cologne
+scent-expensivecologne-direct       = {CAPITALIZE($src)} smells like refined cologne, it's scent balanced by a team of fragrance experts payed more than what it costs to run the station for a year.
+scent-expensivecologne-close        = You smell a trace of expensive cologne.
+scent-expensivecologne-far          = You catch a faint whiff of expensive cologne.
+
+# alcohol
+scent-alcohol-examine      = alcohol
+scent-alcohol-direct       = {CAPITALIZE($src)} smells like alcohol.
+scent-alcohol-close        = You smell a trace of alcohol.
+scent-alcohol-far          = You catch a faint whiff of alcohol.
+
+# lewd
+
+# pomegranates
+scent-pomegranate-examine      = pomegranate
+scent-pomegranate-direct       = {CAPITALIZE($src)} smells like pomegranates.
+scent-pomegranate-close        = You smell a trace of pomegranate.
+scent-pomegranate-far          = You catch a faint whiff of pomegranate.
+
+# piss
+scent-piss-examine      = piss
+scent-piss-direct       = {CAPITALIZE($src)} smells like piss.
+scent-piss-close        = You smell a trace of piss.
+scent-piss-far          = You catch a faint whiff of piss.
